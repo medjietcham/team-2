@@ -111,3 +111,43 @@ cd demo
 git remote add origin https://github.com/medjietcham/team-2.git
 https://github.com/medjietcham/recover.git
 git remote add origin https://github.com/medjietcham/recover.git
+clear
+ls
+git status
+remove -v
+remote -v
+git remote -v
+clear
+git status
+cd demo
+git status
+ls
+ls demo2
+clear
+git pull
+cleR
+clear
+git status
+git fetch
+git pull
+git branch -r
+clear
+touch .test
+ls
+git satus
+git status
+ls -a
+cd -
+ls -a
+touch .gitignore
+clear
+ls -a
+touch file7
+sudo vi .gitignore
+cat .gitignore
+git status
+git add .
+git status
+git commit -m "contract file added"
+clear
+git push
